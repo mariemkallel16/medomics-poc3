@@ -147,10 +147,3 @@ Evaluation datasets:
   identification of low-confidence predictions at patient and profile levels (MED3pa I).
   *Journal of the American Medical Informatics Association (JAMIA)*, 2026.
   https://doi.org/10.1093/jamia/ocag034
-
----
-
-## Citation
-
-Mariem Kallel. *Contributions au développement de la plateforme MEDomics*.
-Mémoire de maîtrise, Université de Sherbrooke, 2026.
